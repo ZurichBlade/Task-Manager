@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Gp#Assignment2</string>
+
+    <string name="channel_name">ChannelTeam</string>
+    <string name="channel_description">Team Notification Channel</string>
+    <string name="notification_title">Don\'t Forget</string>
+    <string name="notification_details">Notification Details</string>
+    <string name="task_name">Task Name</string>
+    <string name="select_due_date">Select Due Date</string>
+    <string name="select_due_date_time"><![CDATA[Select Due Date & Time]]></string>
+    <string name="add_task">Add Task</string>
+    <string name="view_task_list">View Task List</string>
+    <string name="taskid">Task ID</string>
+    <string name="due_date_amp_time"><![CDATA[Due Date & Time]]></string>
+    <string name="action_on_wearable_clicked">Action on Wearable Clicked</string>
+    <string name="wear_action">WEAR_ACTION</string>
+    <string name="i_taskid">Task ID</string>
+    <string name="do_not_forget">Do not Forget</string>
+    <string name="wearable_action">Wearable Action</string>
+    <string name="check_notifications">CHECK_NOTIFICATIONS</string>
+    <string name="please_set_due_date_time"><![CDATA[Please fill all the fields]]></string>
+    <string name="task_saved">Task Saved</string>
+    <string name="taskname">Task Name</string>
+    <string name="show_upcoming_within_one_hour">SHOW_UPCOMING_WITHIN_ONE_HOUR</string>
+    <string name="b_taskname_b"><![CDATA["<b>Task Name:</b> "]]></string>
+    <string name="b_taskid_b"><![CDATA["<b>Task ID:</b> "]]></string>
+    <string name="b_duetime_date_b"><![CDATA["<b>DueDate-Time:</b> "]]></string>
+    <string name="action_view_tasks">View Tasks</string>
+    <string name="add_new_task">Add new Task</string>
+    <string name="due_task">Due this hour</string>
+
+</resources>

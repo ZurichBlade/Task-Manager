@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="box_inset_layout_padding">0dp</dimen>
+    <dimen name="inner_frame_layout_padding">5dp</dimen>
+    <dimen name="padding_box">2dp</dimen>
+    <dimen name="button_width">120dp</dimen>
+    <dimen name="button_height">35dp</dimen>
+    <dimen name="top_margin">2dp</dimen>
+    <dimen name="button_text_size">10sp</dimen>
+    <dimen name="time_textview_size">18sp</dimen>
+    <dimen name="edittext_size">9sp</dimen>
+    <dimen name="textsize">8sp</dimen>
+    <dimen name="_10sp">10sp</dimen>
+    <dimen name="_8sp">8sp</dimen>
+</resources>
